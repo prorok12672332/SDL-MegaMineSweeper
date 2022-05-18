@@ -686,6 +686,7 @@ bool Game1(SDL_Event& e, SDL_Renderer* renderer, SDL_Window* window, Mix_Chunk* 
 						if (!drag && onfield) {
 							if (e.button.button == SDL_BUTTON_LEFT) {
 								if (firsttime) {
+									stopticks = 0;
 									second = SDL_GetTicks();
 									startticks = second;
 									firsttime = false;
@@ -711,12 +712,13 @@ bool Game1(SDL_Event& e, SDL_Renderer* renderer, SDL_Window* window, Mix_Chunk* 
 										else {
 											while (mmm < mines) {
 												int i1 = rand() % ppp[0], j1 = rand() % ppp[1];
-												if (bombs[i1][j1] != 9 && (i1 != ij[0] && j1 != ij[1])) {
+												if (bombs[i1][j1] != 9 && !(i1 == ij[0] && j1 == ij[1])) {
 													bombs[i1][j1] = 9;
 													mmm++;
 												}
 											}
 										}
+										
 										for (int i1 = 0; i1 < ppp[0]; i1++) {
 											for (int j1 = 0; j1 < ppp[1]; j1++) {
 												if (bombs[i1][j1] >= 9) {
