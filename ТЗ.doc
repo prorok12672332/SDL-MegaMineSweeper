@@ -1,5 +1,5 @@
 {\rtf1\adeflang1025\ansi\ansicpg1251\uc1\adeff0\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi0\deflang1049\deflangfe1049\themelang1049\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}
-{\f34\fbidi \froman\fcharset204\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\f43\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman CYR;}{\f44\fbidi \fswiss\fcharset204\fprq2{\*\panose 020b0604030504040204}Tahoma;}
+{\f34\fbidi \froman\fcharset204\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\f43\fbidi \froman\fcharset204\fprq2{\*\panose 00000000000000000000}Times New Roman CYR;}{\f44\fbidi \fswiss\fcharset204\fprq2{\*\panose 00000000000000000000}Tahoma;}
 {\flomajor\f31500\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbmajor\f31501\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}
 {\fhimajor\f31502\fbidi \fswiss\fcharset204\fprq2{\*\panose 020f0302020204030204}Calibri Light;}{\fbimajor\f31503\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}
 {\flominor\f31504\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbminor\f31505\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}
@@ -37,7 +37,7 @@
 \red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red0\green0\blue0;\red0\green0\blue0;}{\*\defchp \fs22\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap 
 \ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 
 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang1049\langfe1049\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1049\langfenp1049 \snext0 \sqformat \spriority0 Normal;}{\*\cs10 \additive \ssemihidden \sunhideused \spriority1 Default Paragraph Font;}{\*
-\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa160\sl259\slmult1
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa160\sl259\slmult1
 \widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang1049\langfe1049\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1049\langfenp1049 \snext11 \ssemihidden \sunhideused 
 Normal Table;}}{\*\listtable{\list\listtemplateid374522712\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid68747279\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 
 \ltrch\fcs0 \fbias0 \fi-360\li720\lin720 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68747289\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
@@ -48,10 +48,10 @@ Normal Table;}}{\*\listtable{\list\listtemplateid374522712\listhybrid{\listlevel
 \fi-180\li4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68747279\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
 \fi-360\li5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68747289\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
 \fi-360\li5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid68747291\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
-\fi-180\li6480\lin6480 }{\listname ;}\listid27225474}}{\*\listoverridetable{\listoverride\listid27225474\listoverridecount0\ls1}}{\*\pgptbl {\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid135791\rsid1446130\rsid2053537\rsid3039337\rsid3045489
-\rsid3289094\rsid4206026\rsid4290408\rsid4595103\rsid4677200\rsid4796669\rsid5977013\rsid6568099\rsid7629649\rsid8455308\rsid8600611\rsid9248555\rsid9390833\rsid9922939\rsid10559043\rsid10690569\rsid13449497\rsid13987865\rsid14097509\rsid16064443}
-{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator Ilia}{\creatim\yr2022\mo2\dy5\hr9}{\revtim\yr2022\mo5\dy17\hr19\min54}{\version17}{\edmins179}{\nofpages5}
-{\nofwords1081}{\nofchars6165}{\nofcharsws7232}{\vern31}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw12240\paperh15840\margl1701\margr850\margt1134\margb1134\gutter0\ltrsect 
+\fi-180\li6480\lin6480 }{\listname ;}\listid27225474}}{\*\listoverridetable{\listoverride\listid27225474\listoverridecount0\ls1}}{\*\pgptbl {\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid16178\rsid135791\rsid1446130\rsid2053537\rsid3039337
+\rsid3045489\rsid3289094\rsid4206026\rsid4290408\rsid4595103\rsid4677200\rsid4796669\rsid5977013\rsid6568099\rsid7629649\rsid8455308\rsid8600611\rsid9248555\rsid9390833\rsid9922939\rsid10559043\rsid10690569\rsid13449497\rsid13987865\rsid14097509
+\rsid16064443}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator Ilia}{\creatim\yr2022\mo2\dy5\hr9}{\revtim\yr2022\mo5\dy18\hr15\min49}{\version18}{\edmins180}
+{\nofpages5}{\nofwords1093}{\nofchars6231}{\nofcharsws7310}{\vern31}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw12240\paperh15840\margl1701\margr850\margt1134\margb1134\gutter0\ltrsect 
 \widowctrl\ftnbj\aenddoc\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\horzdoc\dghspace120\dgvspace120\dghorigin1701
 \dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\rsidroot3289094 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2
 \pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6
@@ -171,8 +171,8 @@ Normal Table;}}{\*\listtable{\list\listtemplateid374522712\listhybrid{\listlevel
 \hich\af43\dbch\af31505\loch\f43 x}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611\charrsid6568099 \hich\af43\dbch\af31505\loch\f43 18,30}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\lang1033\langfe1049\langnp1033\insrsid8600611 
 \hich\af43\dbch\af31505\loch\f43 x}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611\charrsid6568099 \hich\af43\dbch\af31505\loch\f43 30)}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611 \hich\af43\dbch\af31505\loch\f43 
 \hich\f43 , \'e2\loch\f43 \hich\f43  \'ea\'ee\'f2\'ee\'f0\'fb\'f5\loch\f43 \hich\f43  \'ef\'ee\loch\f43 \hich\f43  \'e6\'e5\'eb\'e0\'ed\'e8\'fe\loch\f43 \hich\f43  \'ef\'ee\'eb\'fc\'e7\'ee\'e2\'e0\'f2\'e5\'eb\'ff\loch\f43 \hich\f43  \'ec\'ee\'e6\'ed\'ee
-\hich\af43\dbch\af31505\loch\f43 \hich\f43  \'e8\'e7\'ec\'e5\'ed\'e8\'f2\'fc\loch\f43 \hich\f43  \'ef\'f0\'e5\'e4\'f3\'f1\'f2\'e0\'ed\'ee\'e2\'eb\'e5\'ed\'ed\'ee\'e5\loch\f43 \hich\f43  \'ea\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee\loch\f43 \hich\f43  \'ec\'e8
-\'ed\loch\f43 \hich\f43  (\'ed\'e5\loch\f43 \hich\f43  \'ec\'e5\'ed\'e5\'e5\loch\f43 \hich\f43  1 \'e8\loch\f43 \hich\f43  \'ed\'e5\loch\f43 \hich\f43  \'e1\'ee\'eb\'e5\'e5\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
+\loch\f43 \hich\f43  \'e8\'e7\'ec\'e5\'ed\'e8\'f2\'fc\loch\f43 \hich\f43  \'ef\'f0\'e5\'e4\'f3\'f1\'f2\'e0\'ed\'ee\'e2\'eb\'e5\'ed\'ed\'ee\'e5\loch\f43 \hich\f43  \'ea\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee\loch\f43 \hich\f43  \'ec\'e8\'ed\loch\f43 
+\hich\f43  (\'ed\'e5\loch\f43 \hich\f43  \'ec\'e5\'ed\'e5\'e5\loch\f43 \hich\f43  1 \'e8\loch\f43 \hich\f43  \'ed\'e5\loch\f43 \hich\f43  \'e1\'ee\'eb\'e5\'e5\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
 \f43\fs24\cf1\lang1033\langfe1049\langnp1033\insrsid8600611 \hich\af43\dbch\af31505\loch\f43 N}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611\charrsid6568099 \hich\af43\dbch\af31505\loch\f43 *}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
 \f43\fs24\cf1\lang1033\langfe1049\langnp1033\insrsid8600611 \hich\af43\dbch\af31505\loch\f43 M}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611\charrsid6568099 -}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
 \f43\fs24\cf1\insrsid7629649\charrsid7629649 \hich\af43\dbch\af31505\loch\f43 2}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611 \hich\af43\dbch\af31505\loch\f43 \hich\f43 ), \'e0\loch\f43 \hich\f43  \'f2\'e0\'ea\'e6\'e5\loch\f43 
@@ -183,31 +183,33 @@ Normal Table;}}{\*\listtable{\list\listtemplateid374522712\listhybrid{\listlevel
 \hich\f43  \'e1\'ee\'eb\'e5\'e5\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611\charrsid6568099 \hich\af43\dbch\af31505\loch\f43 99}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
 \f43\fs24\cf1\lang1033\langfe1049\langnp1033\insrsid8600611 \hich\af43\dbch\af31505\loch\f43 x}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611\charrsid6568099 \hich\af43\dbch\af31505\loch\f43 99)}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
 \f43\fs24\cf1\insrsid8600611 .
-\par \loch\af43\dbch\af31505\hich\f43 \'c2\loch\f43 \hich\f43  \'e8\'e3\'f0\'e5\loch\f43  \loch\af43\dbch\af31505\hich\f43 \'ef\'f0\'e8\'f1\'f3\'f2\'f1\'f2\'e2}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 \loch\af43\dbch\af31505\hich\f43 
+\par \loch\af43\dbch\af31505\hich\f43 \'c2\loch\f43 \hich\f43  \'e8\'e3\'f0\'e5\hich\af43\dbch\af31505\loch\f43 \hich\f43  \'ef\'f0\'e8\'f1\'f3\'f2\'f1\'f2\'e2}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 \loch\af43\dbch\af31505\hich\f43 
 \'f3\'e5\'f2}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'f4\'ee\'ed\'ee\'e2\'e0\'ff\loch\f43 \hich\f43  \'ec\'f3\'e7\'fb\'ea\'e0\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'e7\'e2\'f3
 \'ea\'e8.
-\par \loch\af43\dbch\af31505\hich\f43 \'c2\loch\f43 \hich\f43  \'e8\'e3\'f0\'e5\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 \loch\af43\dbch\af31505\hich\f43 \'ef\'f0\'e8\'f1\'f3\'f2\'f1\'f2\'e2\'f3\'e5\'f2\loch\f43 \hich\f43  
-\'e2\'ee\'e7\'ec\'ee\'e6\'ed\'ee\'f1\'f2\'fc\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611 \loch\af43\dbch\af31505\hich\f43 \'e2\'fb\'e1}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 
-\loch\af43\dbch\af31505\hich\f43 \'ee\'f0\'e0}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'f2\'e5\'ec\'fb\loch\f43 \hich\f43  \'ee\'f4\'ee\'f0\'ec\'eb\'e5\'ed\'e8\'ff}{\rtlch\fcs1 
-\af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'e8\'e7\loch\f43 \hich\f43  3 \'ef\'f0\'e5\'e4\'f3\'f1\'f2\'e0\'ed\'ee\'e2\'eb\'e5\'ed\'ed\'fb\'f5}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
-\f43\fs24\cf1\insrsid8600611 .
+\par }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid16178 \loch\af43\dbch\af31505\hich\f43 \'c2\loch\f43 \hich\f43  \'e8\'e3\'f0\'e5\loch\f43  \loch\af43\dbch\af31505\hich\f43 \'e5\'f1\'f2\'fc\hich\af43\dbch\af31505\loch\f43 \hich\f43  \'e2\'ee\'e7
+\'ec\'ee\'e6\'ed\'ee\loch\af43\dbch\af31505\hich\f43 \'f1\'f2\'fc\loch\f43 \hich\f43  \'e0\'ea\'f2\'e8\'e2\'e8\'f0\'ee\'e2\'e0\'f2\'fc\loch\f43 \hich\f43  \'ef\'ee\'eb\'ed\'ee\loch\af43\dbch\af31505\hich\f43 \'fd\'ea\'f0\'e0\'ed\'ed\'fb\'e9\loch\f43 
+\hich\f43  \'f0\'e5\'e6\'e8\'ec\loch\f43 \hich\f43  \'ed\'e0\'e6\'e0\loch\af43\dbch\af31505\hich\f43 \'f2\'e8\'e5\loch\af43\dbch\af31505\hich\f43 \'ec\loch\f43 \hich\f43  \'ea\'eb\'e0\loch\af43\dbch\af31505\hich\f43 \'e2\'e8\'f8\'e8\loch\f43  }{
+\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid16178\charrsid16178 \loch\af43\dbch\af31505\hich\f43 \'93}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\lang1033\langfe1049\langnp1033\insrsid16178 \hich\af43\dbch\af31505\loch\f43 F}{
+\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid16178\charrsid16178 \loch\af43\dbch\af31505\hich\f43 \'94
+\par }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611 \loch\af43\dbch\af31505\hich\f43 \'c2\loch\f43 \hich\f43  \'e8\'e3\'f0\'e5\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 \loch\af43\dbch\af31505\hich\f43 
+\'ef\'f0\'e8\'f1\'f3\'f2\'f1\'f2\'e2\'f3\'e5\'f2\loch\f43 \hich\f43  \'e2\'ee\'e7\'ec\'ee\'e6\'ed\'ee\'f1\'f2\'fc\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611 \loch\af43\dbch\af31505\hich\f43 \'e2\'fb\'e1}{\rtlch\fcs1 
+\af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 \loch\af43\dbch\af31505\hich\f43 \'ee\'f0\'e0}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'f2\'e5\'ec\'fb\loch\f43 \hich\f43  \'ee\'f4
+\'ee\'f0\'ec\'eb\'e5\'ed\'e8\'ff}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'e8\'e7\loch\f43 \hich\f43  3 \'ef\'f0\'e5\'e4\'f3\'f1\'f2\'e0\'ed\'ee\'e2\'eb\'e5\'ed\'ed\'fb\'f5}{
+\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611 .
 \par }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid135791 \loch\af43\dbch\af31505\hich\f43 \'c2\loch\f43 \hich\f43  \'e8\'e3\'f0\'e5\loch\f43 \hich\f43  \'e5\'f1\'f2\'fc\loch\f43 \hich\f43  \'e2\'ee\'e7\'ec\'ee\'e6\'ed\'ee\'f1\'f2\'fc\loch\f43 
 \hich\f43  \'f1\'ee\'f5\'f0\'e0\'ed\'e8\'f2\'fc\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'e7\'e0\'e3\'f0\'f3\'e7\'e8\'f2\'fc\loch\f43 \hich\f43  \'e8\'e3\'f0\'ee\'e2\'f3\'fe\loch\f43 \hich\f43  \'f1\'e5\'f1\'f1\'e8\'fe.
 \par }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid2053537 \loch\af43\dbch\af31505\hich\f43 \'c2\loch\f43 \hich\f43  \'e8\'e3\'f0\'e5\loch\f43 \hich\f43  \'e5\'f1\'f2\'fc\loch\f43 \hich\f43  \'e2\'ee\'e7\'ec\'ee\'e6\'ed\'ee\'f1\'f2\'fc\loch\f43 
-\hich\f43  \'e0\'ea\'f2\'e8\'e2\'e8\'f0\'ee\'e2\'e0\'f2\'fc\loch\f43 \hich\f43  \'e1\'ee\'ed\'f3\'f1\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 \loch\af43\dbch\af31505\hich\f43 \'ab\loch\af43\dbch\af31505\hich\f43 \'ef
-\'ee\'ea\'e0\'e7}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid2053537 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'ec\'e8\'ed\'fb}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 \loch\af43\dbch\af31505\hich\f43 \'bb
-\hich\af43\dbch\af31505\loch\f43 \hich\f43  \'f0\'e0\'e7\loch\f43 \hich\f43  \'e2\loch\f43  \hich\af43\dbch\af31505\loch\f43 3\hich\af43\dbch\af31505\loch\f43 \hich\f43 0 \'f1\'e5\'ea\loch\af43\dbch\af31505\hich\f43 \'f3\'ed\'e4}{\rtlch\fcs1 \af43\afs24 
-\ltrch\fcs0 \f43\fs24\cf1\insrsid2053537 .}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid2053537\charrsid2053537 
-\par }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611 \loch\af43\dbch\af31505\hich\f43 \'c5\'f1\'eb\'e8\loch\f43 \hich\f43  \'e2\'fb\'e1\'f0\'e0\'ed\'e0\loch\f43 \hich\f43  \'f1\'ee\'ee\'f2\'e2\'e5\'f2\'f1\'f2\'e2\'f3\'fe\'f9\'e0\'ff
-\loch\f43 \hich\f43  \'f2\'e5\'ec\'e0\loch\f43 \hich\f43 , \'f2\'ee\loch\f43 \hich\f43  \'e1\'f3\'e4\loch\af43\dbch\af31505\hich\f43 \'e5\'f2\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid135791 \loch\af43\dbch\af31505\hich\f43 \'e7
-\'e0\'e3\'f0\'f3\'e6\'e5\'ed\loch\f43 \hich\f43  \'ef\'ee\'eb\'fc\'e7\'ee\'e2\'e0\'f2\'e5\'eb\'fc\'f1\'ea\'e8\'e9}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'ea\'f3\'f0\'f1\'ee\'f0.}{
-\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611\charrsid9390833 
-\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid4206026 {\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 \loch\af43\dbch\af31505\hich\f43 \'cf\loch\af43\dbch\af31505\hich\f43 \'f0\'e8\loch\f43 \hich\f43  
-\'ee\'f2\'ea\'f0\loch\af43\dbch\af31505\hich\f43 \'fb\loch\af43\dbch\af31505\hich\f43 \'f2\'e8\loch\af43\dbch\af31505\hich\f43 \'e8\loch\f43  \loch\af43\dbch\af31505\hich\f43 \'ff\'f7\'e5\'e9\'ea\'e8\hich\af43\dbch\af31505\loch\f43 \hich\f43  \'e1\'e5\'e7
-\loch\f43 \hich\f43  \'ec\'e8\'ed\loch\f43 \hich\f43  \'e2\'ee\'ea\'f0\'f3\'e3\loch\f43 \hich\f43  \'ed\'e5\'b8\hich\af43\dbch\af31505\loch\f43 \hich\f43 , \'ee\'f2\'ea\'f0\'fb\'e2\'e0\'fe\'f2\'f1\'ff\loch\f43 \hich\f43  \'e2\'f1\'e5
-\hich\af43\dbch\af31505\loch\f43 \hich\f43  \'ef\'ee\'e4\'ee\'e1\'ed\'fb\'e5\loch\f43 \hich\f43  \'e8\hich\af43\dbch\af31505\loch\f43  \loch\af43\dbch\af31505\hich\f43 \'f1\'ec\'e5\'e6\'ed\'fb\'e5\hich\af43\dbch\af31505\loch\f43 \hich\f43  \'ff\'f7\'e5
-\'e9\loch\af43\dbch\af31505\hich\f43 \'ea\'e8\loch\f43 \hich\f43 , \'e0\loch\f43 \hich\f43  \'f2\'e0\'ea\'e6\'e5\hich\af43\dbch\af31505\loch\f43  \loch\af43\dbch\af31505\hich\f43 \'ff\'f7\'e5\'e9\'ea\'e8\loch\f43  \loch\af43\dbch\af31505\hich\f43 \'e2\'ee
-\'ea\'f0\loch\af43\dbch\af31505\hich\f43 \'f3\'e3\loch\f43 \hich\f43  \'ed\'e8\'f5}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611 
+\hich\f43  \'e0\'ea\'f2\'e8\'e2\'e8\'f0\'ee\'e2\'e0\'f2\'fc\loch\f43 \hich\f43  \'e1\'ee\'ed\'f3\'f1\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 \loch\af43\dbch\af31505\hich\f43 \'ab\'ef\'ee\'ea\'e0\'e7}{\rtlch\fcs1 
+\af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid2053537 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'ec\'e8\'ed\'fb}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 \loch\af43\dbch\af31505\hich\f43 \'bb\loch\f43 \hich\f43  \'f0\'e0\'e7
+\loch\f43 \hich\f43  \'e2\loch\f43 \hich\f43  30 \'f1\'e5\'ea\'f3\'ed\'e4}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid2053537 .}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid2053537\charrsid2053537 
+\par }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611 \loch\af43\dbch\af31505\hich\f43 \'c5\'f1\'eb\'e8\hich\af43\dbch\af31505\loch\f43 \hich\f43  \'e2\'fb\'e1\'f0\'e0\'ed\'e0\loch\f43 \hich\f43  \'f1\'ee\'ee\'f2\'e2\'e5\'f2\'f1\'f2\'e2\'f3
+\'fe\'f9\'e0\'ff\loch\f43 \hich\f43  \'f2\'e5\'ec\'e0\loch\f43 \hich\f43 , \'f2\'ee\loch\f43 \hich\f43  \'e1\'f3\'e4\'e5\'f2\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid135791 \loch\af43\dbch\af31505\hich\f43 \'e7\'e0\'e3\'f0\'f3
+\'e6\'e5\'ed\loch\f43 \hich\f43  \'ef\'ee\'eb\'fc\'e7\'ee\'e2\'e0\'f2\'e5\'eb\'fc\'f1\'ea\'e8\'e9}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'ea\'f3\'f0\'f1\'ee\'f0.}{\rtlch\fcs1 
+\af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611\charrsid9390833 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid4206026 {\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 \loch\af43\dbch\af31505\hich\f43 \'cf\'f0\'e8\loch\f43 \hich\f43  \'ee\'f2\'ea\'f0\'fb\'f2\'e8\'e8
+\loch\f43 \hich\f43  \'ff\'f7\'e5\'e9\'ea\'e8\loch\f43 \hich\f43  \'e1\'e5\'e7\loch\f43 \hich\f43  \'ec\'e8\'ed\loch\f43 \hich\f43  \'e2\'ee\'ea\'f0\'f3\'e3\loch\f43 \hich\f43  \'ed\'e5\'b8\loch\f43 \hich\f43 , \'ee\'f2\'ea\'f0\'fb\'e2\'e0\'fe\'f2\'f1\'ff
+\loch\f43 \hich\f43  \'e2\'f1\'e5\loch\f43 \hich\f43  \'ef\'ee\'e4\'ee\'e1\'ed\'fb\'e5\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'f1\'ec\'e5\'e6\'ed\'fb\'e5\loch\f43 \hich\f43  \'ff\'f7\'e5\'e9\'ea\'e8\loch\f43 \hich\f43 , \'e0\loch\f43 \hich\f43  
+\'f2\'e0\'ea\'e6\'e5\loch\f43 \hich\f43  \'ff\'f7\'e5\'e9\'ea\'e8\loch\f43 \hich\f43  \'e2\'ee\'ea\'f0\'f3\'e3\loch\f43 \hich\f43  \'ed\'e8\'f5}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611 
 \par }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 
 \par }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid10690569 \loch\af43\dbch\af31505\hich\f43 \'c8\'e3\'f0\'e0\loch\f43 \hich\f43  \'e4\'ee\'eb\'e6\'ed\'e0\loch\f43 \hich\f43  \'f0\'e5\'e0\'eb\'e8\'e7\'ee\'e2\'fb\'e2\'e0\'f2\'fc\loch\f43 \hich\f43 
  \'f1\'eb\'e5\'e4\'f3\'fe\'f9\'e8\'e5\loch\f43 \hich\f43  \'ef\'f0\'e0\'e2\'e8\'eb\'e0}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid10690569\charrsid10690569 \hich\af43\dbch\af31505\loch\f43 :}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
@@ -221,27 +223,27 @@ Normal Table;}}{\*\listtable{\list\listtemplateid374522712\listhybrid{\listlevel
 \'fb\'f5\loch\f43 \hich\f43 , \'ef\'f0\'e5\'e4\'ef\'ee\'eb\'ee\'e6\'e8\'f2\'e5\'eb\'fc\'ed\'ee\loch\f43 \hich\f43 , \'e5\'f1\'f2\'fc\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid14097509 \loch\af43\dbch\af31505\hich\f43 \'ec\'e8
 \'ed}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid13987865 \loch\af43\dbch\af31505\hich\f43 \'e0\loch\f43 \hich\f43  \'ec\'ee\'e6\'ed\'ee\loch\f43 \hich\f43  \'ef\'ee\'ec\'e5\'f2\'e8\'f2\'fc\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
 \f43\fs24\cf1\insrsid10559043 \loch\af43\dbch\af31505\hich\f43 \'cf}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid13987865 \loch\af43\dbch\af31505\hich\f43 \'ca\'cc\loch\f43 \hich\f43 , \'e8\loch\f43 \hich\f43  \'f2\'e0\'ea\'e0\'ff\loch\f43 
-\hich\f43  \'ff\'f7\'e5\'e9\'ea\'e0\loch\f43 \hich\f43  \'ed\'e5\loch\f43 \hich\f43  \'e1\loch\af43\dbch\af31505\hich\f43 \'f3\'e4\'e5\'f2\loch\f43 \hich\f43  \'ee\'f2\'ea\'f0\'fb\'e2\'e0\'f2\'fc\'f1\'ff}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
-\f43\fs24\cf1\insrsid10559043 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'ed\'e0\loch\f43 \hich\f43  \'cb\'ca\'cc}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid13987865 \hich\af43\dbch\af31505\loch\f43 \hich\f43 , \'ef\'ee\'ea\'e0\loch\f43 
-\hich\f43  \'ed\'e0\loch\f43 \hich\f43  \'ed\'e5\'b8\loch\f43 \hich\f43  \'f1\'ed\'ee\'e2\'e0\loch\f43 \hich\f43  \'ed\'e5\loch\f43 \hich\f43  \'ed\'e0\'e6\'ec\'f3\'f2\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid10559043 
-\loch\af43\dbch\af31505\hich\f43 \'cf}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid13987865 \loch\af43\dbch\af31505\hich\f43 \'ca\'cc\loch\f43 \hich\f43 . \'d6\'e5\'eb\'fc\loch\f43 \hich\f43  \'e8\'e3\'f0\'fb\loch\f43  \hich\f43 \endash }{
-\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid14097509 \hich\af43\dbch\af31505\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 \loch\af43\dbch\af31505\hich\f43 \'ee\'f2\'ea\'f0\'fb\'f2\'fc}{\rtlch\fcs1 \af43\afs24 
-\ltrch\fcs0 \f43\fs24\cf1\insrsid10559043 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'e2\'f1\'e5\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 \loch\af43\dbch\af31505\hich\f43 \'ff\'f7\'e5\'e9\'ea\'e8\loch\f43 \hich\f43  
-\'e1\'e5\'e7\loch\f43 \hich\f43  \'ec\'e8\'ed\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'ef\'ee\'ec\'e5\'f2\'e8\'f2\'fc\loch\f43 \hich\f43  \'e2\'f1\'e5\hich\af43\dbch\af31505\loch\f43 \hich\f43  \'ff\'f7\'e5\'e9\'ea\'e8\loch\f43 \hich\f43  \'f1
-\hich\af43\dbch\af31505\loch\f43 \hich\f43  \'ec\'e8\'ed\loch\af43\dbch\af31505\hich\f43 \'e0\'ec\'e8}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid13987865 .}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid10559043 
-\hich\af43\dbch\af31505\loch\f43 \hich\f43  \'c5\'f1\'eb\'e8\loch\f43 \hich\f43  \'ef\'ee\'eb\'fc\'e7\'ee\'e2\'e0\'f2\'e5\'eb\'fc\loch\f43 \hich\f43  \'ef\'ee\'ec\'e5\'f2\'e8\'f2\loch\f43 \hich\f43  \'e2\'f1\'e5\loch\f43 \hich\f43  \'e7\'e0\'ec\'e8\'ed
-\'e8\'f0\'ee\'e2\'e0\'ed\'ed\'fb\'e5}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'ff\'f7\'e5\'e9\'ea\'e8\hich\af43\dbch\af31505\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'ee\'f2\'ea
-\'f0\'ee\'e5\'f2\loch\f43 \hich\f43  \'e2\'f1\'e5\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid10559043 \loch\af43\dbch\af31505\hich\f43 \'ff\'f7\'e5\'e9\'ea\'e8\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
-\f43\fs24\cf1\insrsid9922939 \loch\af43\dbch\af31505\hich\f43 \'e1\'e5\'e7\loch\f43 \hich\f43  \'ec\'e8\'ed\hich\af43\dbch\af31505\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid10559043 \loch\af43\dbch\af31505\hich\f43 \endash 
-\loch\f43 \hich\f43  \'e8\'e3\'f0\'e0\loch\f43 \hich\f43  \'e7\'e0\'e2\'e5\'f0\'f8\'e8\'f2\'f1\'ff\loch\f43 \hich\f43  \'e2\'fb\'e8\'e3\'f0\'fb\'f8\'e5\'ec.}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid13987865 
-\hich\af43\dbch\af31505\loch\f43 \hich\f43  \'c5\'f1\'eb\'e8\loch\f43 \hich\f43  \'ef\'ee\'eb\'fc\'e7\'ee\'e2\'e0\'f2\'e5\'eb\'fc\loch\f43 \hich\f43  \'ee\'f2\'ea\'f0\'ee\'e5\'f2\loch\f43 \hich\f43  \'e7\'e0\'ec\'e8\'ed\'e8\'f0\'ee\'e2\'e0\'ed\'ed\'f3\'fe
-\loch\f43 \hich\f43  \'ff\'f7\'e5\'e9\'ea\'f3\loch\f43 \hich\f43 , \'f2\'ee\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid14097509 \loch\af43\dbch\af31505\hich\f43 \'ec\'e8\'ed}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
-\f43\fs24\cf1\insrsid13987865 \loch\af43\dbch\af31505\hich\f43 \'e0\loch\f43 \hich\f43  \'e2\'e7\'ee\'f0\'e2\'b8\'f2\'f1\'ff\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'e8\'e3\'f0\'e0\loch\f43 \hich\f43  \'e7\'e0\'e2\'e5\'f0\'f8\'e8\'f2\'f1\'ff
-\loch\f43 \hich\f43  \'ef\loch\af43\dbch\af31505\hich\f43 \'f0\'ee\'e8\'e3\'f0\'fb\'f8\'e5\'ec.
+\hich\f43  \'ff\'f7\'e5\'e9\'ea\'e0\loch\f43 \hich\f43  \'ed\'e5\loch\f43 \hich\f43  \'e1\'f3\'e4\'e5\'f2\loch\f43 \hich\f43  \'ee\'f2\'ea\'f0\'fb\'e2\'e0\'f2\'fc\'f1\'ff}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid10559043 
+\hich\af43\dbch\af31505\loch\f43 \hich\f43  \'ed\'e0\loch\f43 \hich\f43  \'cb\'ca\'cc}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid13987865 \hich\af43\dbch\af31505\loch\f43 \hich\f43 , \'ef\'ee\'ea\'e0\loch\f43 \hich\f43  \'ed\'e0\loch\f43 
+\hich\f43  \'ed\'e5\'b8\loch\f43 \hich\f43  \'f1\'ed\'ee\'e2\'e0\loch\f43 \hich\f43  \'ed\'e5\loch\f43 \hich\f43  \'ed\'e0\'e6\'ec\'f3\'f2\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid10559043 \loch\af43\dbch\af31505\hich\f43 \'cf}
+{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid13987865 \loch\af43\dbch\af31505\hich\f43 \'ca\'cc\loch\f43 \hich\f43 . \'d6\'e5\'eb\'fc\loch\f43 \hich\f43  \'e8\'e3\'f0\'fb\loch\f43  \hich\f43 \endash }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
+\f43\fs24\cf1\insrsid14097509 \hich\af43\dbch\af31505\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 \loch\af43\dbch\af31505\hich\f43 \'ee\'f2\'ea\'f0\'fb\'f2\'fc}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
+\f43\fs24\cf1\insrsid10559043 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'e2\'f1\'e5\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 \loch\af43\dbch\af31505\hich\f43 \'ff\'f7\'e5\'e9\'ea\'e8\loch\f43 \hich\f43  \'e1\'e5\'e7
+\loch\f43 \hich\f43  \'ec\'e8\'ed\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'ef\'ee\'ec\'e5\'f2\'e8\'f2\'fc\loch\f43 \hich\f43  \'e2\'f1\'e5\loch\f43 \hich\f43  \'ff\'f7\'e5\'e9\'ea\'e8\loch\f43 \hich\f43  \'f1\loch\f43 \hich\f43  \'ec\'e8
+\loch\af43\dbch\af31505\hich\f43 \'ed\'e0\'ec\'e8}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid13987865 .}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid10559043 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'c5\'f1\'eb\'e8
+\loch\f43 \hich\f43  \'ef\'ee\'eb\'fc\'e7\'ee\'e2\'e0\'f2\'e5\'eb\'fc\loch\f43 \hich\f43  \'ef\'ee\'ec\'e5\'f2\'e8\'f2\loch\f43 \hich\f43  \'e2\'f1\'e5\loch\f43 \hich\f43  \'e7\'e0\'ec\'e8\'ed\'e8\'f0\'ee\'e2\'e0\'ed\'ed\'fb\'e5}{\rtlch\fcs1 \af43\afs24 
+\ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'ff\'f7\'e5\'e9\'ea\'e8\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'ee\'f2\'ea\'f0\'ee\'e5\'f2\loch\f43 \hich\f43  \'e2\'f1\'e5\loch\f43  }{\rtlch\fcs1 \af43\afs24 
+\ltrch\fcs0 \f43\fs24\cf1\insrsid10559043 \loch\af43\dbch\af31505\hich\f43 \'ff\'f7\'e5\'e9\'ea\'e8\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939 \loch\af43\dbch\af31505\hich\f43 \'e1\'e5\'e7\loch\f43 \hich\f43  \'ec\'e8\'ed
+\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid10559043 \loch\af43\dbch\af31505\hich\f43 \endash \loch\f43 \hich\f43  \'e8\'e3\'f0\'e0\loch\f43 \hich\f43  \'e7\'e0\'e2\'e5\'f0\'f8\'e8\'f2\'f1\'ff\loch\f43 \hich\f43  \'e2\'fb\'e8\'e3
+\'f0\'fb\'f8\'e5\'ec.}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid13987865 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'c5\'f1\'eb\'e8\loch\f43 \hich\f43  \'ef\'ee\'eb\'fc\'e7\'ee\'e2\'e0\'f2\'e5\'eb\'fc\loch\f43 \hich\f43  \'ee\'f2\'ea\'f0
+\'ee\'e5\'f2\loch\f43 \hich\f43  \'e7\'e0\'ec\'e8\'ed\'e8\'f0\'ee\'e2\'e0\'ed\'ed\'f3\'fe\loch\f43 \hich\f43  \'ff\'f7\'e5\'e9\'ea\'f3\loch\f43 \hich\f43 , \'f2\'ee\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid14097509 
+\loch\af43\dbch\af31505\hich\f43 \'ec\'e8\'ed}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid13987865 \loch\af43\dbch\af31505\hich\f43 \'e0\loch\f43 \hich\f43  \'e2\'e7\'ee\'f0\'e2\'b8\'f2\'f1\'ff\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  
+\'e8\'e3\'f0\'e0\loch\f43 \hich\f43  \'e7\'e0\'e2\'e5\'f0\'f8\'e8\'f2\'f1\'ff\loch\f43 \hich\f43  \'ef\'f0\'ee\'e8\'e3\'f0\'fb\'f8\'e5\'ec.
 \par }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9922939\charrsid13987865 
 \par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid4206026 \loch\af43\dbch\af31505\hich\f43 \'d1\'ef\'ee\'f1\'ee\'e1\'fb\loch\f43 \hich\f43  \'f3\'ef\'f0\'e0\'e2\'eb\'e5\'ed
 \'e8\'ff\loch\f43 \hich\f43  \'e8\'e3\'f0\'ee\'e9}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid4206026\charrsid4206026 \hich\af43\dbch\af31505\loch\f43 : }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid4595103 
-\loch\af43\dbch\af31505\hich\f43 \'ea\'eb\'e0\'e2\'e8\'e0\'f2\'f3\'f0\'e0\loch\f43 \hich\f43  \'e8\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid4206026 \loch\af43\dbch\af31505\hich\f43 \'ec\'fb\'f8\'fc
+\loch\af43\dbch\af31505\hich\f43 \'ea\'eb\'e0\'e2\'e8\'e0\'f2\'f3\'f0\'e0\loch\f43 \hich\f43  \'e8\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid4206026 \loch\af43\dbch\af31505\hich\f43 \'ec\'fb\loch\af43\dbch\af31505\hich\f43 \'f8
+\'fc
 \par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid4595103 {\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid8600611 
 \par }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid4206026 \loch\af43\dbch\af31505\hich\f43 \'cc\'e5\'ed\'fe}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid4206026\charrsid4206026 \hich\af43\dbch\af31505\loch\f43 :}{\rtlch\fcs1 
 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid4206026 
@@ -258,34 +260,34 @@ Normal Table;}}{\*\listtable{\list\listtemplateid374522712\listhybrid{\listlevel
 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid4595103\charrsid4595103 
 \par }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f0\fs36\cf1\insrsid9248555 
 \par \hich\af0\dbch\af31505\loch\f0 2.2. }{\rtlch\fcs1 \af43\afs36 \ltrch\fcs0 \f43\fs36\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'d2\'f0\'e5\'e1\'ee\'e2\'e0\'ed\'e8\'ff\loch\f43 \hich\f43  \'ea\loch\f43 \hich\f43  \'ed\'e0\'e4\'e5\'e6\'ed\'ee\'f1
-\loch\af43\dbch\af31505\hich\f43 \'f2\'e8
+\'f2\'e8
 \par }{\rtlch\fcs1 \af44\afs16 \ltrch\fcs0 \f44\fs16\insrsid9248555 
 \par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\cf1\insrsid9248555 
 \par \hich\af0\dbch\af31505\loch\f0 2.2.1 }{\rtlch\fcs1 \af43\afs32 \ltrch\fcs0 \f43\fs32\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'d2\'f0\'e5\'e1\'ee\'e2\'e0\'ed\'e8\'ff\loch\f43 \hich\f43  \'ea\loch\f43 \hich\f43  \'ee\'e1\'e5\'f1\'ef\'e5\'f7\'e5
-\'ed\'e8\'fe\loch\f43 \hich\f43  \'ed\'e0\'e4\'e5\'e6\'ed\'ee\'e3\'ee\loch\f43 \hich\f43  \'f4\'f3\'ed\'ea\'f6\'e8\'ee\'ed\'e8\'f0\'ee\'e2\'e0\'ed\'e8\'ff\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'fb
+\'ed\'e8\'fe\loch\f43 \hich\f43  \'ed\'e0\'e4\'e5\'e6\'ed\'ee\'e3\'ee\loch\f43 \hich\f43  \'f4\'f3\'ed\'ea\'f6\'e8\'ee\loch\af43\dbch\af31505\hich\f43 \'ed\'e8\'f0\'ee\'e2\'e0\'ed\'e8\'ff\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'fb
 \par }{\rtlch\fcs1 \af44\afs16 \ltrch\fcs0 \f44\fs16\insrsid9248555 
 \par }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'cd\'e0\'e4\'e5\'e6\'ed\'ee\'e5\loch\f43 \hich\f43  (\'f3\'f1\'f2\'ee\'e9\'f7\'e8\'e2\'ee\'e5\loch\f43 \hich\f43 ) \'f4\'f3\'ed\'ea\'f6\'e8\'ee\'ed\'e8
 \'f0\'ee\'e2\'e0\'ed\'e8\'e5\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'fb\loch\f43 \hich\f43  \'e4\'ee\'eb\'e6\'ed\'ee\loch\f43 \hich\f43  \'e1\'fb\'f2\'fc\loch\f43 \hich\f43  \'ee\'e1\'e5\'f1\'ef\'e5\'f7\'e5\'ed\'ee\loch\f43 \hich\f43  \'e2
 \'fb\'ef\'ee\'eb\'ed\'e5\'ed\'e8\'e5\'ec\loch\f43 \hich\f43  \'c7\'e0\'ea\'e0\'e7\'f7\'e8\'ea\'ee\'ec\loch\f43 \hich\f43  \'f1\'ee\'e2\'ee\'ea\'f3\'ef\'ed\'ee\'f1\'f2\'e8\loch\f43 \hich\f43  \'ee\'f0\'e3\'e0\'ed\'e8\'e7\'e0\'f6\'e8\'ee\'ed\'ed\'ee-\'f2
 \'e5\'f5\'ed\'e8\'f7\'e5\'f1\'ea\'e8\'f5\loch\f43 \hich\f43  \'ec\'e5\'f0\'ee\'ef\'f0\'e8\'ff\'f2\'e8\'e9\loch\f43 \hich\f43 , \'ef\'e5\'f0\'e5\'f7\'e5\'ed\'fc\loch\f43 \hich\f43  \'ea\'ee\'f2\'ee\'f0\'fb\'f5\loch\f43 \hich\f43  \'ef\'f0\'e8\'e2\'e5\'e4
 \'e5\'ed\loch\f43 \hich\f43  \'ed\'e8\'e6\'e5\loch\f43 :
-\par \loch\af43\dbch\af31505\hich\f43 \'e0\hich\af43\dbch\af31505\loch\f43 \hich\f43 ) \'ee\'f0\'e3\'e0\'ed\'e8\'e7\'e0\'f6\'e8\'e5\'e9\loch\f43 \hich\f43  \'e1\'e5\'f1\'ef\'e5\'f0\'e5\'e1\'ee\'e9\'ed\'ee\'e3\'ee\loch\f43 \hich\f43  \'ef\'e8\'f2\'e0\'ed\'e8
-\'ff\loch\f43 \hich\f43  \'f2\'e5\'f5\'ed\'e8\'f7\'e5\'f1\'ea\'e8\'f5\loch\f43 \hich\f43  \'f1\'f0\'e5\'e4\'f1\'f2\'e2\loch\f43 ;
+\par \loch\af43\dbch\af31505\hich\f43 \'e0\loch\f43 \hich\f43 ) \'ee\'f0\'e3\'e0\'ed\'e8\'e7\'e0\'f6\'e8\'e5\'e9\loch\f43 \hich\f43  \'e1\'e5\'f1\'ef\'e5\'f0\'e5\'e1\'ee\'e9\'ed\'ee\'e3\'ee\loch\f43 \hich\f43  \'ef\'e8\'f2\'e0\'ed\'e8\'ff\loch\f43 \hich\f43  
+\'f2\'e5\'f5\'ed\'e8\'f7\'e5\'f1\'ea\'e8\'f5\loch\f43 \hich\f43  \'f1\'f0\'e5\'e4\loch\af43\dbch\af31505\hich\f43 \'f1\'f2\'e2\loch\f43 ;
 \par \loch\af43\dbch\af31505\hich\f43 \'e1\loch\f43 \hich\f43 ) \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'ee\'e2\'e0\'ed\'e8\'e5\'ec\loch\f43 \hich\f43  \'eb\'e8\'f6\'e5\'ed\'e7\'e8\'ee\'ed\'ed\'ee\'e3\'ee\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'ed\'ee\'e3
 \'ee\loch\f43 \hich\f43  \'ee\'e1\'e5\'f1\'ef\'e5\'f7\'e5\'ed\'e8\'ff\loch\f43 ;
 \par \loch\af43\dbch\af31505\hich\f43 \'e2\loch\f43 \hich\f43 ) \'f0\'e5\'e3\'f3\'eb\'ff\'f0\'ed\'fb\'ec\loch\f43 \hich\f43  \'e2\'fb\'ef\'ee\'eb\'ed\'e5\'ed\'e8\'e5\'ec\loch\f43 \hich\f43  \'f0\'e5\'ea\'ee\'ec\'e5\'ed\'e4\'e0\'f6\'e8\'e9\loch\f43 \hich\f43  
 \'cc\'e8\'ed\'e8\'f1\'f2\'e5\'f0\'f1\'f2\'e2\'e0\loch\f43 \hich\f43  \'f2\'f0\'f3\'e4\'e0\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'f1\'ee\'f6\'e8\'e0\'eb\'fc\'ed\'ee\'e3\'ee\loch\f43 \hich\f43  \'f0\'e0\'e7\'e2\'e8\'f2\'e8\'ff\loch\f43 \hich\f43  
 \'d0\'d4\loch\f43 \hich\f43 , \'e8\'e7\'eb\'ee\'e6\'e5\'ed\'ed\'fb\'f5\loch\f43 \hich\f43  \'e2\loch\f43 \hich\f43  \'cf\'ee\'f1\'f2\'e0\'ed\'ee\'e2\'eb\'e5\'ed\'e8\'e8\loch\f43 \hich\f43  \'ee\'f2\loch\f43 \hich\f43  23 \'e8\'fe\'eb\'ff\loch\f43 
 \hich\f43  1998 \'e3.
-\par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\cf1\insrsid9248555 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'ce\'e1\loch\f43 \hich\f43  \'f3\'f2\'e2\'e5
-\loch\af43\dbch\af31505\hich\f43 \'f0\'e6\'e4\'e5\'ed\'e8\'e8\loch\f43 \hich\f43  \'ec\'e5\'e6\'ee\'f2\'f0\'e0\'f1\'eb\'e5\'e2\'fb\'f5\loch\f43 \hich\f43  \'f2\'e8\'ef\'ee\'e2\'fb\'f5\loch\f43 \hich\f43  \'ed\'ee\'f0\'ec\loch\f43 \hich\f43  \'e2\'f0\'e5
-\'ec\'e5\'ed\'e8\loch\f43 \hich\f43  \'ed\'e0\loch\f43 \hich\f43  \'f0\'e0\'e1\'ee\'f2\'fb\loch\f43 \hich\f43  \'ef\'ee\loch\f43 \hich\f43  \'f1\'e5\'f0\'e2\'e8\'f1\'ed\'ee\'ec\'f3\loch\f43 \hich\f43  \'ee\'e1\'f1\'eb\'f3\'e6\'e8\'e2\'e0\'ed\'e8\'fe
-\loch\f43 \hich\f43  \'cf\'dd\'c2\'cc\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'ee\'f0\'e3\'f2\'e5\'f5\'ed\'e8\'ea\'e8\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'f1\'ee\'ef\'f0\'ee\'e2\'ee\'e6\'e4\'e5\'ed\'e8\'fe\loch\f43 \hich\f43  \'ef\'f0\'ee
-\'e3\'f0\'e0\'ec\'ec\'ed\'fb\'f5\loch\f43 \hich\f43  \'f1\'f0\'e5\'e4\'f1\'f2\'e2}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\cf1\insrsid9248555 \loch\af0\dbch\af31505\hich\f0 \'bb\loch\f0 ;
+\par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\cf1\insrsid9248555 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'ce\'e1\loch\f43 \hich\f43  \'f3\'f2\'e2\'e5\'f0\'e6\'e4
+\'e5\'ed\'e8\'e8\loch\f43 \hich\f43  \'ec\'e5\'e6\'ee\'f2\'f0\'e0\'f1\'eb\'e5\'e2\'fb\'f5\loch\f43 \hich\f43  \'f2\'e8\'ef\'ee\'e2\'fb\'f5\loch\f43 \hich\f43  \'ed\'ee\'f0\'ec\loch\f43 \hich\f43  \'e2\'f0\'e5\'ec\'e5\'ed\'e8\loch\f43 \hich\f43  \'ed\'e0
+\loch\f43 \hich\f43  \'f0\'e0\'e1\'ee\'f2\'fb\loch\f43 \hich\f43  \'ef\loch\af43\dbch\af31505\hich\f43 \'ee\loch\f43 \hich\f43  \'f1\'e5\'f0\'e2\'e8\'f1\'ed\'ee\'ec\'f3\loch\f43 \hich\f43  \'ee\'e1\'f1\'eb\'f3\'e6\'e8\'e2\'e0\'ed\'e8\'fe\loch\f43 
+\hich\f43  \'cf\'dd\'c2\'cc\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'ee\'f0\'e3\'f2\'e5\'f5\'ed\'e8\'ea\'e8\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'f1\'ee\'ef\'f0\'ee\'e2\'ee\'e6\'e4\'e5\'ed\'e8\'fe\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0
+\'e0\'ec\'ec\'ed\'fb\'f5\loch\f43 \hich\f43  \'f1\'f0\'e5\'e4\'f1\'f2\'e2}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\cf1\insrsid9248555 \loch\af0\dbch\af31505\hich\f0 \'bb\loch\f0 ;
 \par }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'e3\loch\f43 \hich\f43 ) \'f0\'e5\'e3\'f3\'eb\'ff\'f0\'ed\'fb\'ec\loch\f43 \hich\f43  \'e2\'fb\'ef\'ee\'eb\'ed\'e5\'ed\'e8\'e5\'ec\loch\f43 \hich\f43  
 \'f2\'f0\'e5\'e1\'ee\'e2\'e0\'ed\'e8\'e9\loch\f43 \hich\f43  \'c3\'ce\'d1\'d2\loch\f43 \hich\f43  51188-98. \'c7\'e0\'f9\'e8\'f2\'e0\loch\f43 \hich\f43  \'e8\'ed\'f4\'ee\'f0\'ec\'e0\'f6\'e8\'e8\loch\f43 \hich\f43 . \'c8\'f1\'ef\'fb\'f2\'e0\'ed\'e8\'ff
-\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'ed\'fb\'f5\loch\f43 \hich\f43  \'f1\'f0\'e5\'e4\'f1\'f2\'e2\loch\f43 \hich\f43  \'ed\'e0\loch\f43 \hich\f43  \'ed\'e0\'eb\'e8\'f7\'e8\'e5\loch\f43 \hich\f43  \'ea\'ee\'ec\'ef\'fc\'fe\'f2\'e5
-\loch\af43\dbch\af31505\hich\f43 \'f0\'ed\'fb\'f5\loch\f43 \hich\f43  \'e2\'e8\'f0\'f3\'f1\'ee\'e2
+\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'ed\'fb\'f5\loch\f43 \hich\f43  \'f1\'f0\'e5\'e4\'f1\'f2\'e2\loch\f43 \hich\f43  \'ed\'e0\loch\f43 \hich\f43  \'ed\'e0\'eb\'e8\'f7\'e8\'e5\loch\f43 \hich\f43  \'ea\'ee\'ec\'ef\'fc\'fe\'f2\'e5\'f0\'ed
+\'fb\'f5\loch\f43 \hich\f43  \'e2\'e8\'f0\'f3\'f1\'ee\'e2
 \par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\cf1\insrsid9248555 
 \par \hich\af0\dbch\af31505\loch\f0 2.2.2. }{\rtlch\fcs1 \af43\afs32 \ltrch\fcs0 \f43\fs32\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'c2\'f0\'e5\'ec\'ff\loch\f43 \hich\f43  \'e2\'ee\'f1\'f1\'f2\'e0\'ed\'ee\'e2\'eb\'e5\'ed\'e8\'ff\loch\f43 \hich\f43 
  \'ef\'ee\'f1\'eb\'e5\loch\f43 \hich\f43  \'ee\'f2\'ea\'e0\'e7\'e0
@@ -296,16 +298,15 @@ Normal Table;}}{\*\listtable{\list\listtemplateid374522712\listhybrid{\listlevel
 \'ed\'e5\loch\f43 \hich\f43  \'f4\'e0\'f2\'e0\'eb\'fc\'ed\'fb\'ec\loch\f43 \hich\f43  \'f1\'e1\'ee\'e5\'ec\loch\f43 \hich\f43  (\'ed\'e5\loch\f43 \hich\f43  \'ea\'f0\'e0\'f5\'ee\'ec\loch\f43 \hich\f43 ) \'ee\'ef\'e5\'f0\'e0\'f6\'e8\'ee\'ed\'ed\'ee\'e9
 \loch\f43 \hich\f43  \'f1\'e8\'f1\'f2\'e5\'ec\'fb,
 \par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\cf1\insrsid9248555 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'ed\'e5\loch\f43 \hich\f43  \'e4\'ee\'eb\'e6\'ed\'ee
-\loch\f43 \hich\f43  \'ef\'f0\'e5\'e2\'fb\'f8\'e0\'f2\'fc\loch\f43 \hich\f43  30-\'f2\'e8\loch\f43 \hich\f43  \'ec\'e8\'ed\'f3\'f2\hich\af43\dbch\af31505\loch\f43 \hich\f43  \'ef\'f0\'e8\loch\f43 \hich\f43  \'f3\'f1\'eb\'ee\'e2\'e8\'e8\loch\f43 \hich\f43 
- \'f1\'ee\'e1\'eb\'fe\'e4\'e5\'ed\'e8\'ff\loch\f43 \hich\f43  \'f3\'f1\'eb\'ee\'e2\'e8\'e9\loch\f43 \hich\f43  \'fd\'ea\'f1\'ef\'eb\'f3\'e0\'f2\'e0\'f6\'e8\'e8\loch\f43 \hich\f43  \'f2\'e5\'f5\'ed\'e8\'f7\'e5\'f1\'ea\'e8\'f5\loch\f43 \hich\f43  \'e8
-\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'ed\'fb\'f5\loch\f43 \hich\f43  \'f1\'f0\'e5\'e4\'f1\'f2\'e2.
+\loch\f43 \hich\f43  \'ef\'f0\'e5\'e2\'fb\'f8\'e0\'f2\'fc\loch\f43 \hich\f43  30-\'f2\'e8\loch\f43 \hich\f43  \'ec\'e8\'ed\'f3\'f2\loch\f43 \hich\f43  \'ef\'f0\'e8\loch\f43 \hich\f43  \'f3\'f1\'eb\'ee\'e2\'e8\'e8\loch\f43 \hich\f43  \'f1\'ee\'e1\'eb\'fe
+\'e4\'e5\'ed\'e8\'ff\loch\f43 \hich\f43  \'f3\'f1\'eb\'ee\'e2\'e8\'e9\loch\f43 \hich\f43  \'fd\'ea\'f1\'ef\'eb\'f3\'e0\'f2\'e0\'f6\'e8\'e8\loch\f43 \hich\f43  \'f2\'e5\'f5\'ed\'e8\'f7\'e5\'f1\'ea\loch\af43\dbch\af31505\hich\f43 \'e8\'f5\loch\f43 
+\hich\f43  \'e8\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'ed\'fb\'f5\loch\f43 \hich\f43  \'f1\'f0\'e5\'e4\'f1\'f2\'e2.
 \par \loch\af43\dbch\af31505\hich\f43 \'c2\'f0\'e5\'ec\'ff\loch\f43 \hich\f43  \'e2\'ee\'f1\'f1\'f2\'e0\'ed\'ee\'e2\'eb\'e5\'ed\'e8\'ff\loch\f43 \hich\f43  \'ef\'ee\'f1\'eb\'e5\loch\f43 \hich\f43  \'ee\'f2\'ea\'e0\'e7\'e0\loch\f43 \hich\f43 , \'e2\'fb\'e7\'e2
 \'e0\'ed\'ed\'ee\'e3\'ee\loch\f43 \hich\f43  \'ed\'e5\'e8\'f1\'ef\'f0\'e0\'e2\'ed\'ee\'f1\'f2\'fc\'fe\loch\f43 \hich\f43  \'f2\'e5\'f5\'ed\'e8\'f7\'e5\'f1\'ea\'e8\'f5\loch\f43 \hich\f43  \'f1\'f0\'e5\'e4\'f1\'f2\'e2\loch\f43 \hich\f43 , \'f4\'e0\'f2\'e0
 \'eb\'fc\'ed\'fb\'ec\loch\f43 \hich\f43  \'f1\'e1\'ee\'e5\'ec\loch\f43 \hich\f43  (\'ea\'f0\'e0\'f5\'ee\'ec\loch\f43 \hich\f43 ) \'ee\'ef\'e5\'f0\'e0\'f6\'e8\'ee\'ed\'ed\'ee\'e9\loch\f43 \hich\f43  \'f1\'e8\'f1\'f2\'e5\'ec\'fb\loch\f43 \hich\f43 , \'ed
 \'e5\loch\f43 \hich\f43  \'e4\'ee\'eb\'e6\'ed\'ee\loch\f43 \hich\f43  \'ef\'f0\'e5\'e2\'fb\'f8\'e0\'f2\'fc\loch\f43 \hich\f43  \'e2\'f0\'e5\'ec\'e5\'ed\'e8\loch\f43 \hich\f43 , \'f2\'f0\'e5\'e1\'f3\'e5\'ec\'ee\'e3\'ee\loch\f43 \hich\f43  \'ed\'e0
-\loch\f43 \hich\f43  \'f3\'f1\'f2\'f0\loch\af43\dbch\af31505\hich\f43 \'e0\'ed\'e5\'ed\'e8\'e5\loch\f43 \hich\f43  \'ed\'e5\'e8\'f1\'ef\'f0\'e0\'e2\'ed\'ee\'f1\'f2\'e5\'e9\loch\f43 \hich\f43  \'f2\'e5\'f5\'ed\'e8\'f7\'e5\'f1\'ea\'e8\'f5\loch\f43 
-\hich\f43  \'f1\'f0\'e5\'e4\'f1\'f2\'e2\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'ef\'e5\'f0\'e5\'f3\'f1\'f2\'e0\'ed\'ee\'e2\'ea\'e8\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'ed\'fb\'f5\loch\f43 \hich\f43  \'f1\'f0\'e5\'e4\'f1\'f2\'e2.
-
+\loch\f43 \hich\f43  \'f3\'f1\'f2\'f0\'e0\'ed\'e5\'ed\'e8\'e5\loch\f43 \hich\f43  \'ed\'e5\'e8\'f1\'ef\'f0\'e0\'e2\'ed\'ee\'f1\'f2\'e5\'e9\loch\f43 \hich\f43  \'f2\'e5\'f5\'ed\'e8\'f7\'e5\'f1\'ea\'e8\'f5\loch\f43 \hich\f43  \'f1\'f0\'e5\'e4\'f1\'f2\'e2
+\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'ef\'e5\'f0\'e5\'f3\'f1\'f2\'e0\'ed\'ee\loch\af43\dbch\af31505\hich\f43 \'e2\'ea\'e8\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'ed\'fb\'f5\loch\f43 \hich\f43  \'f1\'f0\'e5\'e4\'f1\'f2\'e2.
 \par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\cf1\insrsid9248555 
 \par \hich\af0\dbch\af31505\loch\f0 2.2.3. }{\rtlch\fcs1 \af43\afs32 \ltrch\fcs0 \f43\fs32\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'ce\'f2\'ea\'e0\'e7\'fb\loch\f43 \hich\f43  \'e8\'e7-\'e7\'e0\loch\f43 \hich\f43  \'ed\'e5\'ea\'ee\'f0}{\rtlch\fcs1 
 \af43\afs32 \ltrch\fcs0 \f43\fs32\cf1\insrsid4595103 \loch\af43\dbch\af31505\hich\f43 \'f0}{\rtlch\fcs1 \af43\afs32 \ltrch\fcs0 \f43\fs32\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'e5\'ea\'f2\'ed\'fb\'f5\loch\f43 \hich\f43  \'e4\'e5\'e9\'f1\'f2
@@ -324,32 +325,32 @@ Normal Table;}}{\*\listtable{\list\listtemplateid374522712\listhybrid{\listlevel
 \hich\f43  \'fd\'ea\'f1\'ef\'eb\'f3\'e0\'f2\'e0\'f6\'e8\'e8
 \par }{\rtlch\fcs1 \af44\afs16 \ltrch\fcs0 \f44\fs16\insrsid9248555 
 \par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\cf1\insrsid9248555 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'ca\'eb\'e8\'ec\'e0\'f2\'e8\'f7\'e5\'f1\'ea\'e8\'e5
-\loch\f43 \hich\f43  \'f3\'f1\'eb\'ee\'e2\'e8\'ff\loch\f43 \hich\f43  \'fd\'ea\'f1\'ef\'eb\'f3\'e0\'f2\'e0\'f6\'e8\'e8\loch\f43 \hich\f43 , \'ef\'f0\'e8\loch\f43 \hich\f43  \'ea\'ee\'f2\'ee\'f0\'fb\'f5\loch\f43 \hich\f43  \'e4\'ee\'eb\'e6\'ed\'fb
-\loch\f43 \hich\f43  \'ee\'e1\'e5\'f1\'ef\'e5\'f7\'e8\'e2\'e0\'f2\'fc\'f1\'ff\loch\f43 \hich\f43  \'e7\'e0\'e4\'e0\'ed\'ed\'fb\'e5\loch\f43 \hich\f43  \'f5\'e0\'f0\'e0\'ea\'f2\'e5\'f0\'e8\'f1\'f2\'e8\'ea\'e8\loch\f43 \hich\f43 , \'e4\'ee\'eb\'e6\'ed\'fb
-\loch\f43 \hich\f43  \'f3\'e4\'ee\'e2\'eb\'e5\'f2\'e2\'ee\'f0\'ff\'f2\'fc\loch\f43 \hich\f43  \'f2\'f0\'e5\'e1\'ee\'e2\'e0\'ed\'e8\'ff\'ec,
+\loch\f43 \hich\f43  \'f3\'f1\loch\af43\dbch\af31505\hich\f43 \'eb\'ee\'e2\'e8\'ff\loch\f43 \hich\f43  \'fd\'ea\'f1\'ef\'eb\'f3\'e0\'f2\'e0\'f6\'e8\'e8\loch\f43 \hich\f43 , \'ef\'f0\'e8\loch\f43 \hich\f43  \'ea\'ee\'f2\'ee\'f0\'fb\'f5\loch\f43 \hich\f43  
+\'e4\'ee\'eb\'e6\'ed\'fb\loch\f43 \hich\f43  \'ee\'e1\'e5\'f1\'ef\'e5\'f7\'e8\'e2\'e0\'f2\'fc\'f1\'ff\loch\f43 \hich\f43  \'e7\'e0\'e4\'e0\'ed\'ed\'fb\'e5\loch\f43 \hich\f43  \'f5\'e0\'f0\'e0\'ea\'f2\'e5\'f0\'e8\'f1\'f2\'e8\'ea\'e8\loch\f43 \hich\f43 , 
+\'e4\'ee\'eb\'e6\'ed\'fb\loch\f43 \hich\f43  \'f3\'e4\'ee\'e2\'eb\'e5\'f2\'e2\'ee\'f0\'ff\'f2\'fc\loch\f43 \hich\f43  \'f2\'f0\'e5\'e1\'ee\'e2\'e0\'ed\'e8\'ff\'ec,
 \par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\cf1\insrsid9248555 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'ef\'f0\'e5\'e4\'fa\'ff\'e2\'eb\'ff\'e5\'ec\'fb\'ec
 \loch\f43 \hich\f43  \'ea\loch\f43 \hich\f43  \'f2\'e5\'f5\'ed\'e8\'f7\'e5\'f1\'ea\'e8\'ec\loch\f43 \hich\f43  \'f1\'f0\'e5\'e4\'f1\'f2\'e2\'e0\'ec\loch\f43 \hich\f43  \'e2\loch\f43 \hich\f43  \'f7\'e0\'f1\'f2\'e8\loch\f43 \hich\f43  \'f3\'f1\'eb\'ee\'e2
 \'e8\'e9\loch\f43 \hich\f43  \'e8\'f5\loch\f43 \hich\f43  \'fd\'ea\'f1\'ef\'eb\'f3\'e0\'f2\'e0\'f6\'e8\'e8
 \par }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f0\fs36\cf1\insrsid9248555 
-\par \hich\af0\dbch\af31505\loch\f0 3.2. }{\rtlch\fcs1 \af43\afs36 \ltrch\fcs0 \f43\fs36\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'d2\'f0\'e5\'e1\'ee\'e2\'e0\'ed\'e8\'ff\loch\f43 \hich\f43  \'ea\hich\af43\dbch\af31505\loch\f43 \hich\f43  \'ea\'e2
-\'e0\'eb\'e8\'f4\'e8\'ea\'e0\'f6\'e8\'e8\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'f7\'e8\'f1\'eb\'e5\'ed\'ed\'ee\'f1\'f2\'e8\loch\f43 \hich\f43  \'ef\'e5\'f0\'f1\'ee\'ed\'e0\'eb\'e0
+\par \hich\af0\dbch\af31505\loch\f0 3.2. }{\rtlch\fcs1 \af43\afs36 \ltrch\fcs0 \f43\fs36\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'d2\'f0\'e5\'e1\'ee\'e2\'e0\'ed\'e8\'ff\loch\f43 \hich\f43  \'ea\loch\f43 \hich\f43  \'ea\'e2\'e0\'eb\'e8\'f4\'e8\'ea
+\'e0\'f6\'e8\'e8\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'f7\'e8\'f1\'eb\'e5\'ed\'ed\'ee\'f1\'f2\'e8\loch\f43 \hich\f43  \'ef\'e5\'f0\'f1\'ee\'ed\'e0\'eb\'e0
 \par }{\rtlch\fcs1 \af44\afs16 \ltrch\fcs0 \f44\fs16\insrsid9248555 
 \par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\cf1\insrsid9248555 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'cc\'e8\'ed\'e8\'ec\'e0\'eb\'fc\'ed\'ee\'e5\loch\f43 
-\hich\f43  \'ea\'ee\'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee\loch\f43 \hich\f43  \'ef}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid13449497 \loch\af43\dbch\af31505\hich\f43 \'ee\'eb\'fc\'e7\'ee\'e2\'e0\'f2\'e5\'eb\'e5\'e9}{\rtlch\fcs1 \af43\afs24 
-\ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \hich\af43\dbch\af31505\loch\f43 \hich\f43 , \'f2\'f0\'e5\'e1\'f3\'e5\'ec\'ee\'e3\'ee\loch\f43 \hich\f43  \'e4\'eb\'ff\loch\f43 \hich\f43  \'f0\'e0\'e1\'ee\'f2\'fb\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec
-\'ec\'fb\loch\f43 \hich\f43 , \'e4\'ee\'eb\'e6\'ed\'ee\loch\f43 \hich\f43  \'f1\'ee\'f1\'f2\'e0\'e2\'eb\'ff\'f2\'fc\loch\f43 \hich\f43  \'ed\'e5\loch\f43 \hich\f43  \'ec\'e5\'ed\'e5\'e5\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
-\f43\fs24\cf1\insrsid13449497 \hich\af43\dbch\af31505\loch\f43 1}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'f8\'f2\'e0\'f2\'ed}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
+\hich\f43  \'ea\'ee\loch\af43\dbch\af31505\hich\f43 \'eb\'e8\'f7\'e5\'f1\'f2\'e2\'ee\loch\f43 \hich\f43  \'ef}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid13449497 \loch\af43\dbch\af31505\hich\f43 \'ee\'eb\'fc\'e7\'ee\'e2\'e0\'f2\'e5\'eb\'e5
+\'e9}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \hich\af43\dbch\af31505\loch\f43 \hich\f43 , \'f2\'f0\'e5\'e1\'f3\'e5\'ec\'ee\'e3\'ee\loch\f43 \hich\f43  \'e4\'eb\'ff\loch\f43 \hich\f43  \'f0\'e0\'e1\'ee\'f2\'fb\loch\f43 \hich\f43  
+\'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'fb\loch\f43 \hich\f43 , \'e4\'ee\'eb\'e6\'ed\'ee\loch\f43 \hich\f43  \'f1\'ee\'f1\'f2\'e0\'e2\'eb\'ff\'f2\'fc\loch\f43 \hich\f43  \'ed\'e5\loch\f43 \hich\f43  \'ec\'e5\'ed\'e5\'e5\loch\f43  }{\rtlch\fcs1 \af43\afs24 
+\ltrch\fcs0 \f43\fs24\cf1\insrsid13449497 \hich\af43\dbch\af31505\loch\f43 1}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'f8\'f2\'e0\'f2\'ed}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
 \f43\fs24\cf1\insrsid13449497 \loch\af43\dbch\af31505\hich\f43 \'ee\'e9\loch\f43 \hich\f43  \'e5\'e4\'e8\'ed\'e8\'f6\'fb}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \hich\af43\dbch\af31505\loch\f43  }{\rtlch\fcs1 \af0\afs24 
 \ltrch\fcs0 \f0\fs24\cf1\insrsid9248555 \loch\af0\dbch\af31505\hich\f0 \emdash }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid13449497 \hich\af43\dbch\af31505\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 
 \loch\af43\dbch\af31505\hich\f43 \'ea\'ee\'ed\'e5\'f7\'ed\'fb\'e9\loch\f43 \hich\f43  \'ef\'ee\'eb\'fc\'e7\'ee\'e2\'e0\'f2\'e5\'eb\'fc\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'fb\loch\f43  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
 \f0\fs24\cf1\insrsid9248555 \loch\af0\dbch\af31505\hich\f0 \emdash \loch\f0  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'ee\'ef\'e5\'f0\'e0\'f2\'ee\'f0.
 \par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid13449497 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\cf1\insrsid9248555 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid13449497 
 \loch\af43\dbch\af31505\hich\f43 \'cf\'ee\'eb\'fc\'e7\'ee\'e2\'e0\'f2\'e5\'eb\'fc\loch\f43 \hich\f43  \'e4\'ee\'eb\'e6\'e5\'ed\loch\f43 \hich\f43  \'ee\'e1\'eb\'e0\'e4\'e0\'f2\'fc\loch\f43 \hich\f43  \'ef\'e5\'f0\'e2\'e8\'f7\'ed\'fb\'ec\'e8\loch\f43 
-\hich\f43  \'ed\'e0\'e2\'fb\'ea\'e0\'ec\'e8\loch\f43 \hich\f43  \'f0\'e0\'e1\'ee\loch\af43\dbch\af31505\hich\f43 \'f2\'fb\loch\f43 \hich\f43  \'f1\loch\f43 \hich\f43  \'ee\'ef\'e5\'f0\'e0\'f6\'e8\'ee\'ed\'ed\'ee\'e9\loch\f43 \hich\f43  \'f1\'e8\'f1\'f2
-\'e5\'ec\'ee\'e9}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \hich\af43\dbch\af31505\loch\f43 . 
+\hich\f43  \'ed\'e0\'e2\'fb\'ea\'e0\'ec\'e8\loch\f43 \hich\f43  \'f0\'e0\'e1\'ee\'f2\'fb\loch\f43 \hich\f43  \'f1\loch\f43 \hich\f43  \'ee\'ef\'e5\'f0\'e0\'f6\'e8\'ee\'ed\'ed\'ee\'e9\loch\f43 \hich\f43  \'f1\'e8\'f1\'f2\'e5\'ec\'ee\'e9}{\rtlch\fcs1 
+\af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \hich\af43\dbch\af31505\loch\f43 . 
 \par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f0\fs36\cf1\insrsid9248555 
-\par \hich\af0\dbch\af31505\loch\f0 3.3. }{\rtlch\fcs1 \af43\afs36 \ltrch\fcs0 \f43\fs36\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'d2\'f0\'e5\'e1\'ee\'e2\'e0\'ed\'e8\'ff\loch\f43 \hich\f43  \'ea\loch\f43 \hich\f43  \'f1\'ee\'f1\'f2\'e0\'e2\'f3
-\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'ef\'e0\'f0\'e0\'ec\'e5\'f2\'f0\'e0\'ec\loch\f43 \hich\f43  \'f2\'e5\'f5\'ed\'e8\'f7\'e5\'f1\'ea\'e8\'f5\loch\f43 \hich\f43  \'f1\'f0\'e5\'e4\'f1\'f2\'e2
+\par \hich\af0\dbch\af31505\loch\f0 3.3. }{\rtlch\fcs1 \af43\afs36 \ltrch\fcs0 \f43\fs36\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'d2\'f0\'e5\'e1\'ee\'e2\'e0\'ed\'e8\'ff\loch\f43 \hich\f43  \'ea\loch\f43 \hich\f43  \'f1\'ee\'f1\'f2\'e0\'e2
+\loch\af43\dbch\af31505\hich\f43 \'f3\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'ef\'e0\'f0\'e0\'ec\'e5\'f2\'f0\'e0\'ec\loch\f43 \hich\f43  \'f2\'e5\'f5\'ed\'e8\'f7\'e5\'f1\'ea\'e8\'f5\loch\f43 \hich\f43  \'f1\'f0\'e5\'e4\'f1\'f2\'e2
 \par }{\rtlch\fcs1 \af44\afs16 \ltrch\fcs0 \f44\fs16\insrsid9248555 
 \par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\cf1\insrsid9248555 \hich\af0\dbch\af31505\loch\f0 3.3.1. }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'c2\loch\f43 \hich\f43  \'f1\'ee\'f1\'f2\'e0\'e2
 \loch\f43 \hich\f43  \'f2\'e5\'f5\'ed\'e8\'f7\'e5\'f1\'ea\'e8\'f5\loch\f43 \hich\f43  \'f1\'f0\'e5\'e4\'f1\'f2\'e2\loch\f43 \hich\f43  \'e4\'ee\'eb\'e6\'e5\'ed\loch\f43 \hich\f43  \'e2\'f5\'ee\'e4\'e8\'f2\'fc\loch\f43 \hich\f43  I\'c2\'cc-\'f1\'ee\'e2\'ec
@@ -364,7 +365,7 @@ Normal Table;}}{\*\listtable{\list\listtemplateid374522712\listhybrid{\listlevel
 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'ed\'e5\loch\f43 \hich\f43  \'ec\'e5\'ed\'e5\'e5\loch\f43 ;}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid2053537\charrsid2053537 
 \par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\cf1\insrsid9248555 \hich\af0\dbch\af31505\loch\f0 3.3.1.2. }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'ee\'ef\'e5\'f0\'e0\'f2\'e8\'e2\'ed\'f3\'fe
 \loch\f43 \hich\f43  \'ef\'e0\'ec\'ff\'f2\'fc\loch\f43 \hich\f43  \'ee\'e1\'fa\'e5\'ec\'ee\'ec\loch\f43 , }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid135791\charrsid135791 \hich\af43\dbch\af31505\loch\f43 2048}{\rtlch\fcs1 \af43\afs24 
-\ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'cc\'e1\'e0\'e9\'f2\loch\f43 \hich\f43 , \'ed\'e5\loch\f43 \hich\f43  \'ec\'e5\'ed\'e5\'e5\loch\f43 ;
+\ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'cc\'e1\'e0\'e9\'f2\loch\f43 \hich\f43 , \'ed\'e5\loch\f43 \hich\f43  \'ec\loch\af43\dbch\af31505\hich\f43 \'e5\'ed\'e5\'e5\loch\f43 ;
 \par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\cf1\insrsid9248555 \hich\af0\dbch\af31505\loch\f0 3.3.1.3. }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'f1\'e2\'ee\'e1\'ee\'e4\'ed\'ee\'e3\'ee\loch\f43 
 \hich\f43  \'ef\'f0\'ee\'f1\'f2\'f0\'e0\'ed\'f1\'f2\'e2\'e0\loch\f43 \hich\f43  \'ed\'e0\loch\f43 \hich\f43  \'e6\'e5\'f1\'f2\'ea\'ee\'ec\loch\f43 \hich\f43  \'e4\'e8\'f1\'ea\'e5\loch\f43 , }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
 \f43\fs24\cf1\insrsid135791\charrsid135791 \hich\af43\dbch\af31505\loch\f43 512 }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid135791 \loch\af43\dbch\af31505\hich\f43 \'cc\'e1\'e0\'e9\'f2}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
@@ -375,11 +376,11 @@ Normal Table;}}{\*\listtable{\list\listtemplateid374522712\listhybrid{\listlevel
 \rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \hich\af43\dbch\af31505\loch\f43 ;
 \par }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f0\fs36\cf1\insrsid9248555 
 \par \hich\af0\dbch\af31505\loch\f0 3.4. }{\rtlch\fcs1 \af43\afs36 \ltrch\fcs0 \f43\fs36\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'d2\'f0\'e5\'e1\'ee\'e2\'e0\'ed\'e8\'ff\loch\f43 \hich\f43  \'ea\loch\f43 \hich\f43  \'e8\'ed\'f4\'ee\'f0\'ec\'e0\'f6
-\'e8\'ee\'ed\'ed\'ee\'e9\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'ed\'ee\'e9\loch\f43 \hich\f43  \'f1\'ee\'e2\'ec\'e5\loch\af43\dbch\af31505\hich\f43 \'f1\'f2\'e8\'ec\'ee\'f1\'f2\'e8
+\'e8\'ee\'ed\'ed\'ee\'e9\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'ed\'ee\'e9\loch\f43 \hich\f43  \'f1\'ee\'e2\'ec\'e5\'f1\'f2\'e8\'ec\'ee\'f1\'f2\'e8
 \par }{\rtlch\fcs1 \af44\afs16 \ltrch\fcs0 \f44\fs16\insrsid9248555 
 \par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\cf1\insrsid9248555 
 \par \hich\af0\dbch\af31505\loch\f0 3.4.1. }{\rtlch\fcs1 \af43\afs32 \ltrch\fcs0 \f43\fs32\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'d2\'f0\'e5\'e1\'ee\'e2\'e0\'ed\'e8\'ff\loch\f43 \hich\f43  \'ea\loch\f43 \hich\f43  \'e8\'ed\'f4\'ee\'f0\'ec\'e0
-\'f6\'e8\'ee\'ed\'ed\'fb\'ec\loch\f43 \hich\f43  \'f1\'f2\'f0\'f3\'ea\'f2\'f3\'f0\'e0\'ec\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'ec\'e5\'f2\'ee\'e4\'e0\'ec\loch\f43 \hich\f43  \'f0\'e5\'f8\'e5\'ed\'e8\'ff
+\'f6\'e8\'ee\'ed\'ed\'fb\'ec\loch\f43 \hich\f43  \'f1\'f2\'f0\'f3\'ea\'f2\'f3\loch\af43\dbch\af31505\hich\f43 \'f0\'e0\'ec\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'ec\'e5\'f2\'ee\'e4\'e0\'ec\loch\f43 \hich\f43  \'f0\'e5\'f8\'e5\'ed\'e8\'ff
 \par }{\rtlch\fcs1 \af44\afs16 \ltrch\fcs0 \f44\fs16\insrsid9248555 
 \par }\pard \ltrpar\qj \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid8600611 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\cf1\insrsid8600611\charrsid8600611 \loch\af0\dbch\af31505\hich\f0 \'c4\'ee\'ef\'ee\'eb\'ed\'e8\'f2\'e5\'eb\'fc\'ed\'fb
 \'e5\loch\f0 \hich\f0  \'f2\'f0\'e5\'e1\'ee\'e2\'e0\'ed\'e8\'ff\loch\f0 \hich\f0  \'ed\'e5\loch\f0 \hich\f0  \'ef\'f0\'e5\'e4\'fa\'ff\'e2\'eb\'ff\'fe\'f2\'f1\'ff.}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\cf1\insrsid8600611 
@@ -392,24 +393,24 @@ Normal Table;}}{\*\listtable{\list\listtemplateid374522712\listhybrid{\listlevel
 \'ea\'e5\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'e8\'f0\'ee\'e2\'e0\'ed\'e8\'ff\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\lang1033\langfe1049\langnp1033\insrsid16064443 \hich\af43\dbch\af31505\loch\f43 C}{\rtlch\fcs1 
 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid16064443\charrsid16064443 \hich\af43\dbch\af31505\loch\f43  (}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\lang1033\langfe1049\langnp1033\insrsid16064443 \hich\af43\dbch\af31505\loch\f43 C}{\rtlch\fcs1 
 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid16064443\charrsid16064443 \hich\af43\dbch\af31505\loch\f43 ++) }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid16064443 \loch\af43\dbch\af31505\hich\f43 \'f1\loch\f43 \hich\f43  \'ef\'f0\'e8\'ec\'e5
-\'ed\'e5\'ed\'e8\'e5\'ec\loch\f43 \hich\f43  \'e3\'f0\'e0\'f4\'e8\loch\af43\dbch\af31505\hich\f43 \'f7\'e5\'f1\'ea\'ee\'e9\loch\f43 \hich\f43  \'e1\'e8\'e1\'eb\'e8\'ee\'f2\'e5\'ea\'e8\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
+\'ed\'e5\'ed\'e8\'e5\'ec\loch\f43 \hich\f43  \'e3\'f0\'e0\'f4\'e8\'f7\'e5\'f1\'ea\'ee\'e9\loch\f43 \hich\f43  \'e1\'e8\'e1\'eb\'e8\'ee\'f2\'e5\'ea\'e8\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
 \f43\fs24\cf1\lang1033\langfe1049\langnp1033\insrsid16064443 \hich\af43\dbch\af31505\loch\f43 SDL}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid16064443\charrsid16064443 \hich\af43\dbch\af31505\loch\f43 . }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
 \f43\fs24\cf1\insrsid9248555 
 \par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\cf1\insrsid16064443\charrsid16064443 
 \par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\cf1\insrsid9248555 \hich\af0\dbch\af31505\loch\f0 3.4.3. }{\rtlch\fcs1 \af43\afs32 \ltrch\fcs0 \f43\fs32\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'d2\'f0\'e5\'e1\'ee\'e2\'e0\'ed\'e8\'ff\loch\f43 
-\hich\f43  \'ea\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'ed\'fb\'ec\loch\f43 \hich\f43  \'f1\'f0\'e5\'e4\'f1\'f2\'e2\'e0\'ec\loch\f43 \hich\f43 , \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'e5\'ec\'fb\'ec\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0
-\'ec\'ec\'ee\'e9
+\hich\f43  \'ea\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\loch\af43\dbch\af31505\hich\f43 \'ed\'fb\'ec\loch\f43 \hich\f43  \'f1\'f0\'e5\'e4\'f1\'f2\'e2\'e0\'ec\loch\f43 \hich\f43 , \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'e5\'ec\'fb\'ec\loch\f43 
+\hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'ee\'e9
 \par }{\rtlch\fcs1 \af44\afs16 \ltrch\fcs0 \f44\fs16\insrsid9248555 
 \par }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'d1\'e8\'f1\'f2\'e5\'ec\'ed\'fb\'e5\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'ed\'fb\'e5\loch\f43 \hich\f43  \'f1\'f0\'e5\'e4\'f1\'f2\'e2\'e0
 \loch\f43 \hich\f43 , \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'e5\'ec\'fb\'e5\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'ee\'e9\loch\f43 \hich\f43 , \'e4\'ee\'eb\'e6\'ed\'fb\loch\f43 \hich\f43  \'e1\'fb\'f2\'fc\loch\f43 \hich\f43  \'ef\'f0\'e5\'e4\'f1
 \'f2\'e0\'e2\'eb\'e5\'ed\'fb\loch\f43 \hich\f43  \'eb\'e8\'f6\'e5\'ed\'e7\'e8\'ee\'ed\'ed\'ee\'e9\loch\f43 \hich\f43  \'eb\'ee\'ea\'e0\'eb\'e8\'e7\'ee\'e2\'e0\'ed\'ed\'ee\'e9\loch\f43 \hich\f43  \'e2\'e5\'f0\'f1\'e8\'e5\'e9\loch\f43 \hich\f43  \'ee\'ef
 \'e5\'f0\'e0\'f6\'e8\'ee\'ed\'ed\'ee\'e9\loch\f43 \hich\f43  \'f1\'e8\'f1\'f2\'e5\'ec\'fb\loch\f43  Windows }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid3045489 \hich\af43\dbch\af31505\loch\f43 7}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
-\f43\fs24\cf1\insrsid9248555 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'e8\'eb\'e8\hich\af43\dbch\af31505\loch\f43  Windows }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid3045489 \hich\af43\dbch\af31505\loch\f43 \hich\f43 10 \'e8\'eb\'e8
-\loch\f43  }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\lang1033\langfe1049\langnp1033\insrsid3045489 \hich\af43\dbch\af31505\loch\f43 Windows}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid3045489\charrsid3045489 
-\hich\af43\dbch\af31505\loch\f43  11.}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555\charrsid3045489 
+\f43\fs24\cf1\insrsid9248555 \hich\af43\dbch\af31505\loch\f43 \hich\f43  \'e8\'eb\'e8\loch\f43  Windows }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid3045489 \hich\af43\dbch\af31505\loch\f43 \hich\f43 10 \'e8\'eb\'e8\loch\f43  }{\rtlch\fcs1 
+\af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\lang1033\langfe1049\langnp1033\insrsid3045489 \hich\af43\dbch\af31505\loch\f43 Windows}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid3045489\charrsid3045489 \hich\af43\dbch\af31505\loch\f43  11.}{
+\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555\charrsid3045489 
 \par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\cf1\insrsid9248555 
 \par \hich\af0\dbch\af31505\loch\f0 3.4.4. }{\rtlch\fcs1 \af43\afs32 \ltrch\fcs0 \f43\fs32\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'d2\'f0\'e5\'e1\'ee\'e2\'e0\'ed\'e8\'ff\loch\f43 \hich\f43  \'ea\loch\f43 \hich\f43  \'e7\'e0\'f9\'e8\'f2\'e5
-\loch\f43 \hich\f43  \'e8\'ed\'f4\'ee\'f0\'ec\'e0\'f6\'e8\'e8\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec
+\loch\f43 \hich\f43  \'e8\'ed\'f4\'ee\'f0\'ec\'e0\'f6\loch\af43\dbch\af31505\hich\f43 \'e8\'e8\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec
 \par }{\rtlch\fcs1 \af44\afs16 \ltrch\fcs0 \f44\fs16\insrsid9248555 
 \par }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'d2\'f0\'e5\'e1\'ee\'e2\'e0\'ed\'e8\'ff\loch\f43 \hich\f43  \'ea\loch\f43 \hich\f43  \'e7\'e0\'f9\'e8\'f2\'e5\loch\f43 \hich\f43  \'e8\'ed\'f4\'ee\'f0\'ec
 \'e0\'f6\'e8\'e8\loch\f43 \hich\f43  \'e8\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\loch\f43 \hich\f43  \'ed\'e5\loch\f43 \hich\f43  \'ef\'f0\'e5\'e4\'fa\'ff\'e2\'eb\'ff\'fe\'f2\'f1\'ff
@@ -421,11 +422,11 @@ Normal Table;}}{\*\listtable{\list\listtemplateid374522712\listhybrid{\listlevel
 \rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid4595103 \loch\af43\dbch\af31505\hich\f43 \'fa}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'ff\'e2\'eb\'ff\'fe\'f2\'f1\'ff
 \par }{\rtlch\fcs1 \af0\afs40 \ltrch\fcs0 \f0\fs40\cf1\insrsid9248555 
 \par \hich\af0\dbch\af31505\loch\f0 4. }{\rtlch\fcs1 \af43\afs40 \ltrch\fcs0 \f43\fs40\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'d2\'f0\'e5\'e1\'ee\'e2\'e0\'ed\'e8\'ff\loch\f43 \hich\f43  \'ea\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec
-\'ed\'ee\loch\af43\dbch\af31505\hich\f43 \'e9\loch\f43 \hich\f43  \'e4\'ee\'ea\'f3\'ec\'e5\'ed\'f2\'e0\'f6\'e8\'e8
+\'ed\'ee\'e9\loch\f43 \hich\f43  \'e4\'ee\'ea\'f3\'ec\'e5\'ed\'f2\'e0\'f6\'e8\'e8
 \par }{\rtlch\fcs1 \af44\afs16 \ltrch\fcs0 \f44\fs16\insrsid9248555 
 \par }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f0\fs36\cf1\insrsid9248555 
 \par \hich\af0\dbch\af31505\loch\f0 4.1. }{\rtlch\fcs1 \af43\afs36 \ltrch\fcs0 \f43\fs36\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'cf\'f0\'e5\'e4\'e2\'e0\'f0\'e8\'f2\'e5\'eb\'fc\'ed\'fb\'e9\loch\f43 \hich\f43  \'f1\'ee\'f1\'f2\'e0\'e2\loch\f43 
-\hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'ed\'ee\'e9\loch\f43 \hich\f43  \'e4\'ee\'ea\'f3\'ec\'e5\'ed\'f2\'e0\'f6\'e8\'e8
+\hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'ed\'ee\'e9\loch\f43 \hich\f43  \'e4\'ee\'ea\'f3\'ec\'e5\'ed\loch\af43\dbch\af31505\hich\f43 \'f2\'e0\'f6\'e8\'e8
 \par }{\rtlch\fcs1 \af44\afs16 \ltrch\fcs0 \f44\fs16\insrsid9248555 
 \par }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'d1\'ee\'f1\'f2\'e0\'e2\loch\f43 \hich\f43  \'ef\'f0\'ee\'e3\'f0\'e0\'ec\'ec\'ed\'ee\'e9\loch\f43 \hich\f43  \'e4\'ee\'ea\'f3\'ec\'e5\'ed\'f2\'e0\'f6\'e8
 \'e8\loch\f43 \hich\f43  \'e4\'ee\'eb\'e6\'e5\'ed\loch\f43 \hich\f43  \'e2\'ea\'eb\'fe\'f7\'e0\'f2\'fc\loch\f43 \hich\f43  \'e2\loch\f43 \hich\f43  \'f1\'e5\'e1\'ff\loch\f43 :
@@ -438,7 +439,7 @@ Normal Table;}}{\*\listtable{\list\listtemplateid374522712\listhybrid{\listlevel
 \par }{\rtlch\fcs1 \af44\afs16 \ltrch\fcs0 \f44\fs16\insrsid9248555 
 \par }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f0\fs36\cf1\insrsid9248555 
 \par \hich\af0\dbch\af31505\loch\f0 5.1. }{\rtlch\fcs1 \af43\afs36 \ltrch\fcs0 \f43\fs36\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'dd\'ea\'ee\'ed\'ee\'ec\'e8\'f7\'e5\'f1\'ea\'e8\'e5\loch\f43 \hich\f43  \'ef\'f0\'e5\'e8\'ec\'f3\'f9\'e5\'f1\'f2\'e2
-\'e0\loch\f43 \hich\f43  \'f0\'e0\'e7\'f0\'e0\'e1\'ee\'f2\'ea\loch\af43\dbch\af31505\hich\f43 \'e8
+\'e0\loch\f43 \hich\f43  \'f0\'e0\'e7\'f0\'e0\'e1\'ee\'f2\'ea\'e8
 \par }{\rtlch\fcs1 \af44\afs16 \ltrch\fcs0 \f44\fs16\insrsid9248555 
 \par }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'ce\'f0\'e8\'e5\'ed\'f2\'e8\'f0\'ee\'e2\'ee\'f7\'ed\'e0\'ff\loch\f43 \hich\f43  \'fd\'ea\'ee\'ed\'ee\'ec\'e8\'f7\'e5\'f1\'ea\'e0\'ff\loch\f43 \hich\f43  
 \'fd\'f4\'f4\'e5\'ea\'f2\'e8\'e2\'ed\'ee\'f1\'f2\'fc\loch\f43 \hich\f43  \'ed\'e5\loch\f43 \hich\f43  \'f0\'e0\'f1\'f1\'f7\'e8\'f2\'fb\'e2\'e0\'fe\'f2\'f1\'ff.
@@ -463,16 +464,16 @@ Normal Table;}}{\*\listtable{\list\listtemplateid374522712\listhybrid{\listlevel
 \'e0}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid4796669\charrsid4595103 \hich\af43\dbch\af31505\loch\f43 ;
 \par \hich\af43\dbch\af31505\loch\f43 5. }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid4796669 \loch\af43\dbch\af31505\hich\f43 \'f2\'e5\'f1\'f2\'e8\'f0\'ee\'e2\'e0\'ed\'e8\'e5}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
 \f43\fs24\cf1\insrsid4796669\charrsid4595103 \hich\af43\dbch\af31505\loch\f43 ;
-\par \hich\af43\dbch\af31505\loch\f43 6. }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid4796669 \loch\af43\dbch\af31505\hich\f43 \'e4\'ee\'ea\loch\af43\dbch\af31505\hich\f43 \'f3\'ec\'e5\'ed\'f2\'e8\'f0\'ee\'e2\'e0\'ed\'e8\'e5}{\rtlch\fcs1 
-\af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid4796669\charrsid4595103 \hich\af43\dbch\af31505\loch\f43 ;
+\par \hich\af43\dbch\af31505\loch\f43 6. }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid4796669 \loch\af43\dbch\af31505\hich\f43 \'e4\'ee\'ea\'f3\'ec\'e5\'ed\'f2\'e8\'f0\'ee\'e2\'e0\'ed\'e8\'e5}{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 
+\f43\fs24\cf1\insrsid4796669\charrsid4595103 \hich\af43\dbch\af31505\loch\f43 ;
 \par }{\rtlch\fcs1 \af0\afs40 \ltrch\fcs0 \f0\fs40\cf1\insrsid9248555 
 \par \hich\af0\dbch\af31505\loch\f0 7. }{\rtlch\fcs1 \af43\afs40 \ltrch\fcs0 \f43\fs40\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'cf\'ee\'f0\'ff\'e4\'ee\'ea\loch\f43 \hich\f43  \'ea\'ee\'ed\'f2\'f0\'ee\'eb\'ff\loch\f43 \hich\f43  \'e8\loch\f43 
 \hich\f43  \'ef\'f0\'e8\'e5\'ec\'ea\'e8
 \par }{\rtlch\fcs1 \af44\afs16 \ltrch\fcs0 \f44\fs16\insrsid9248555 
 \par }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f0\fs36\cf1\insrsid9248555 
 \par \hich\af0\dbch\af31505\loch\f0 7.}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f0\fs36\cf1\insrsid5977013\charrsid5977013 \hich\af0\dbch\af31505\loch\f0 1}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f0\fs36\cf1\insrsid9248555 \hich\af0\dbch\af31505\loch\f0 . }{
-\rtlch\fcs1 \af43\afs36 \ltrch\fcs0 \f43\fs36\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'ce\'e1\'f9\'e8\'e5\loch\f43 \hich\f43  \'f2\'f0\'e5\'e1\'ee\'e2\'e0\'ed\'e8\'ff\loch\f43 \hich\f43  \'ea\loch\f43 \hich\f43  \'ef\'f0\'e8\'e5\'ec\'ea\'e5
-\loch\f43 \hich\f43  \'f0\'e0\'e1\'ee\'f2\'fb
+\rtlch\fcs1 \af43\afs36 \ltrch\fcs0 \f43\fs36\cf1\insrsid9248555 \loch\af43\dbch\af31505\hich\f43 \'ce\'e1\'f9\'e8\'e5\loch\f43 \hich\f43  \'f2\'f0\'e5\'e1\'ee\loch\af43\dbch\af31505\hich\f43 \'e2\'e0\'ed\'e8\'ff\loch\f43 \hich\f43  \'ea\loch\f43 
+\hich\f43  \'ef\'f0\'e8\'e5\'ec\'ea\'e5\loch\f43 \hich\f43  \'f0\'e0\'e1\'ee\'f2\'fb
 \par }{\rtlch\fcs1 \af44\afs16 \ltrch\fcs0 \f44\fs16\insrsid9248555 
 \par }{\rtlch\fcs1 \af43\afs24 \ltrch\fcs0 \f43\fs24\cf1\insrsid5977013 \loch\af43\dbch\af31505\hich\f43 \'d0\'e0\'e1\'ee\'f2\'e0\loch\f43 \hich\f43  \'ef\'f0\'e8\'ed\'e8\'ec\'e0\'e5\'f2\'f1\'ff\loch\f43 \hich\f43  \'ef\'f0\'e5\'ef\'ee\'e4\'e0\'e2\'e0\'f2\'e5
 \'eb\'e5\'ec\loch\f43 \hich\f43  \'f1\loch\f43 \hich\f43  \'f3\'f7\'b8\'f2\'ee\'ec\loch\f43 \hich\f43  \'f2\'f0\'e5\'e1\'ee\'e2\'e0\'ed\'e8\'e9\loch\f43 \hich\f43  \'ea\loch\f43 \hich\f43  \'ea\'f3\'f0\'f1\'ee\'e2\'ee\'e9\loch\f43 \hich\f43  \'f0\'e0\'e1
@@ -624,8 +625,8 @@ fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e5000000000000000000000000304a
-8bc00e6ad801feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e5000000000000000000000000908c
+ddb5b56ad801feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
 0000000000000000000000000000000000000000000000000105000000000000}}
