@@ -347,18 +347,6 @@ int main(int argc, char** argv) {
 									off = { WIDTH / 2 - 160, HEIGHT / 2 + 80, 320, 80 };
 								}
 								back = { WIDTH - 160, HEIGHT - 60, 160, 60 };
-								for (int i = 0; i < 2; i++) {
-									std::string mama = std::to_string(int(volume[i] / 1.28f));
-									volumeP[i].w = volume[i];
-									SDL_DestroyTexture(Volume[i]);
-									Volume[i] = renderText(mama, "Res\\Storopia.ttf", { 0,0,0,0 }, WIDTH / 5, renderer);
-									volumeNUM[i].w = (int)mama.length() * 20;
-									for (int i = 0; i < mama.length(); i++) {
-										if (mama[i] == '1') {
-											volumeNUM[i].w -= 10;
-										}
-									}
-								}
 							}
 						}
 						else if (InRect(x, y, off))quit = true;

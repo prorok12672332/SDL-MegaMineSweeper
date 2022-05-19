@@ -820,6 +820,7 @@ bool Game1(SDL_Event& e, SDL_Renderer* renderer, SDL_Window* window, Mix_Chunk* 
 				}
 				else if (InRect(x, y, muzhikplace) && e.button.button == SDL_BUTTON_LEFT) {
 				firsttime = true;
+				load = false;
 				UraPobeda = ppp[0] * ppp[1] - mines;
 				rightflags = 0;
 				flags = mines;
