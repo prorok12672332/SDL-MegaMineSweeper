@@ -12,7 +12,7 @@
 #include"SDL_image.h"
 #include"SDL_mixer.h"
 #include <fstream>
-#include<direct.h>
+#include <direct.h>
 #include <algorithm>
 
 bool checkFileCorrupion(std::string SaveFilePath, const char* username, char l);

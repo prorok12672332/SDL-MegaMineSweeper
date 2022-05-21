@@ -40,7 +40,6 @@ bool readfile(std::ifstream &savefileIN, std::string SaveFilePath, const char* u
 		}
 	}
 	else badfile = true;
-
 	if (!savefileIN.good())badfile = true;
 	if (getline(savefileIN, string)) {
 		char volume0[9] = "VOLUME0 ";

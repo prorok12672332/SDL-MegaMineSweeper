@@ -72,7 +72,7 @@ void isblank(int i, int j, int*& ppp, char**& bombs, char**& field) {
 		}
 	}
 }
-
+ 
 bool savegame(std::string SaveFilePath, const char* username, char l, int ppp[2], char **field, char **bombs, int time) {
 	std::ifstream file(SaveFilePath, ios::binary);
 	std::ofstream fileout(SaveFilePath + 'e', ios::binary);
@@ -928,7 +928,8 @@ bool Game1(SDL_Event& e, SDL_Renderer* renderer, SDL_Window* window, Mix_Chunk* 
 						for (int i = 0; i < ppp[0]; i++) {
 							for (int j = 0; j < ppp[1]; j++) {
 								if (bombs[i][j] == 9) {
-									field[i][j] = 12;
+									if (field[i][j] == 10 || field[i][j] == 13) field[i][j] = 13;
+									else field[i][j] = 12;
 								}
 							}
 						}

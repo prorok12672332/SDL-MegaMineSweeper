@@ -124,7 +124,7 @@ bool Game(SDL_Event& e, SDL_Renderer* renderer, SDL_Window* window, Mix_Chunk* S
 						t1 = SDL_GetTicks();
 						drag = false;
 					}
-					else if (InRect(e.button.x, e.button.y, startBTN[i]) || InRect(e.button.x, e.button.y, loadBTN[i])) {
+					else if (InRect(e.button.x, e.button.y, startBTN[i]) || (InRect(e.button.x, e.button.y, loadBTN[i])&& canload[i])) {
 						quit = Game1(e, renderer, window, Sound, fon, WIDTH, HEIGHT, bgImg, resource, white, aspratio, bgw, bgh, format, fullscreen, mines[i], pole, i, SaveFilePath, username, InRect(e.button.x, e.button.y, loadBTN[i]), volume, muted, theme, volumeBG, themeField, themesFormat, themepick,ontheme, ThemePick, volumeSQ, Volume, volumeNUM,Green, volumeP, MusicVolume, SoundVolume, musicvolume, soundvolume, onmute, MuteSQ1, volumeICON, themePick, mute, themes, Back, cursor);
 						checksave(SaveFilePath, username, canload);
 						if (!quit) {
@@ -371,11 +371,8 @@ bool Game(SDL_Event& e, SDL_Renderer* renderer, SDL_Window* window, Mix_Chunk* S
 					else if (pole[0] == 100) pole[0] = 99;
 					else if (pole[1] == 1) pole[1] = 2;
 					else if (pole[1] == 100) pole[1] = 99;
-					if (mines[3] >= pole[0] * pole[1] - 1) { //|| mines[3] == (pole[0] - 1) * pole[1] - 1 || mines[3] == pole[0] * (pole[1]-1) - 1) {
-						//if (mines[3] >= pole[0] * pole[1]) {
+					if (mines[3] >= pole[0] * pole[1] - 1) {
 						mines[3] = pole[0] * pole[1] - 2;
-						//}
-						//else mines[3] = pole[0] * pole[1] - 1;
 						SDL_DestroyTexture(Mines[3]);
 						str = std::to_string(mines[3]);
 						int u = 3 - str.length();
